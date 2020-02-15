@@ -1,0 +1,10 @@
+I file hanno dei caratteri che formattano il testo, questi caratteri fanno parte del file. 
+La riga è l'elemento atomico che noi possiamo gestire in un file. Di solito un file viene letto per riga. I caratteri devono essere codificati.
+
+Caratteri ASCII 1 byte, UNICODE 1 o 2 o più. In europa molto usato l'"UTF-8", che se codifica caratteri semplici li memorizza con la memoria dell'ASCII.
+Non è detto che vi capitano pagine che non si riescano a codificare con l'encoding con UTF-8. 
+* + ù ∑† ∞¨©™®™©æ §
+s
+s
+s
+s

@@ -1,0 +1,2 @@
+I file hanno dei caratteri che formattano il testo, questi caratteri fanno parte del file. 
+La riga è l'elemento atomico che noi possiamo gestire in un file. Di solito un file viene letto per riga. I caratteri devono essere codificati.
